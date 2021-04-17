@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 
 -->
-- 🔭 I’m currently working on summer school project: light-web-crawler and my personal blog
-- 🌱 I’m currently learning computer vision and GRE
-- 👯 I’m looking to collaborate on computer vision about wheat detection~
+- 🔭 I’m currently doing research on point cloud and self-supervised learning.
+- 🌱 I’m now a remote research intern at CMU.
+
