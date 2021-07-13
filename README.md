@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently doing research on point cloud and self-supervised learning.
 - 🌱 I’m now a remote research intern at CMU.
-
+- ⚡ I’m now doing summer research at UCI.
