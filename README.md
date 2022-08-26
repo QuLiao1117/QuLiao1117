@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👯 
 -->
-- 🔭 I’m currently doing research on point cloud and self-supervised learning.
-- ⚡ I’m now doing summer research at UCI about video semantic segmentation.
+- 🔭 I’m currently doing research on salient object detection.
+- ⚡ I’m now a graduate student at Carnegie Mellon university.
