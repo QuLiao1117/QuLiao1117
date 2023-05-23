@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👯 
 -->
-- 🔭 I’m currently doing research on salient object detection.
-- ⚡ I’m now a graduate student at Carnegie Mellon university.
+- 🔭 I’m currently doing research on 3d generation.
+- ⚡ I’m now a graduate student @ Carnegie Mellon university and an intern @ ByteDance.
