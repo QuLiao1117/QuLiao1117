@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ I’m now a graduate student @ Carnegie Mellon university and an intern @ ByteDance.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuLiao1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuLiao1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
