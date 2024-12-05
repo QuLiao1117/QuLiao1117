@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👯 
 -->
-- 🔭 I’m currently interested in MLLM.
-- ⚡ I’ve graduated from Carnegie Mellon university and currently MLE @ ByteDance.
+- 🔭 I’m currently interested in MLLM and visual generation.
+- ⚡ I graduated from Carnegie Mellon University and am currently an MLE at ByteDance..
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuLiao1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
